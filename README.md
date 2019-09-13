@@ -1,6 +1,6 @@
 International Symposium on Forecasting 2019
 =====
-The 39th ISF was held in Thessaloniki in Greece. As in past years, a large delegation from the [Centre for Marketing Analytics and Forecasting](https://www.lancaster.ac.uk/lums/research/research-centres--areas/centre-for-marketing-analytics-and-forecasting/) attended and presented their latest research. This gitHub repository contains all slides presented at the conference:
+The 39th ISF was held in Thessaloniki in Greece. As in past years, a large delegation from the [Centre for Marketing Analytics and Forecasting](https://www.lancaster.ac.uk/lums/research/research-centres--areas/centre-for-marketing-analytics-and-forecasting/) attended and presented their latest research. This gitHub repository contains all CMAF slides presented at the conference:
 
 ### Forecasting with hierarchies
 - [Cross temporal coherent forecasts for Australian tourismNikolaos Kourentzes](https://github.com/lancastercmaf/ISF2019/blob/master/slides/Kourentzes_Nikolaos_ISF2019.pdf) (Kourentzes, N. and Athanaspoulus, G.)
